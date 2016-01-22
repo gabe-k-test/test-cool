@@ -1,0 +1,3 @@
+[submodule "neat_stuff"]
+	path = neat_stuff
+	url = git@github.com:gabe-k/test-private-repo.git
